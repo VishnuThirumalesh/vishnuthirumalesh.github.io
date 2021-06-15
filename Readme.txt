@@ -1,1 +1,1 @@
-Portfolio built using HTML, CSS, Bootstrap, JS, PHP
+Portfolio built using HTML, CSS, Bootstrap, JS
